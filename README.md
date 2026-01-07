@@ -1,1 +1,2 @@
 # odin-recipes
+This is a project I'm teaching myself currently. I'm going to try creating a portfolio for one of my dear kookie little brother. Using his resources to engage and better my self in HTML/CSS/Java script
